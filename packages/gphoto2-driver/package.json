@@ -34,7 +34,7 @@
     "test": "test"
   },
   "dependencies": {
-    "@tsed/core": "6.49.3",
+    "@tsed/core": "6.59.0",
     "@tsed/gphoto2-core": "3.0.3",
     "@tsed/logger": "5.14.0",
     "fs-extra": "10.0.0",

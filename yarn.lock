@@ -1548,25 +1548,15 @@
   resolved "https://registry.npmjs.org/@tootallnate/once/-/once-1.1.2.tgz"
   integrity sha512-RbzJvlNzmRq5c3O09UipeuXno4tA1FE6ikOjxZK0tuxVv3412l64l5t1W5pj4+rJq9vpkm/kwiR07aZXnsKPxw==
 
-"@tsed/core@6.43.4":
-  version "6.43.4"
-  resolved "https://registry.npmjs.org/@tsed/core/-/core-6.43.4.tgz"
-  integrity sha512-2ofkyX381pMn0TAUhiu+iUuWdrRgHQ5zdxDxbZ6xVCZW1ly5thkC+pZAjZuzKfy9/Lmx7VZxQCcgnId6vhLQaQ==
+"@tsed/core@6.59.0":
+  version "6.59.0"
+  resolved "https://registry.yarnpkg.com/@tsed/core/-/core-6.59.0.tgz#f5acede24dcdce42bbd0b414f3726fd2437991e5"
+  integrity sha512-8ftI31Nzrt1QiXcT2kJOvZVCkExgxVDTv/VUg2LNyuSS7+1hGs0xyGX5vWbHsE4JOT0HWjJYhQSTxujXyNe6ZA==
   dependencies:
     normalize-path "3.0.0"
     reflect-metadata "^0.1.13"
     source-map-support "0.5.19"
-    tslib "2.1.0"
-
-"@tsed/core@6.49.3":
-  version "6.49.3"
-  resolved "https://registry.yarnpkg.com/@tsed/core/-/core-6.49.3.tgz#17fa45892d5c57f53c103a536d1a8c9e4f6b81bd"
-  integrity sha512-VJFtwIvYyQL29izEUDPek3j7HzA9hTYL/OPlU3rxpXuOP2CoUU2lXWB3i0L7IMBEhv2y55RQlAyMhBvjMgAebw==
-  dependencies:
-    normalize-path "3.0.0"
-    reflect-metadata "^0.1.13"
-    source-map-support "0.5.19"
-    tslib "2.1.0"
+    tslib "2.2.0"
 
 "@tsed/logger@5.14.0":
   version "5.14.0"

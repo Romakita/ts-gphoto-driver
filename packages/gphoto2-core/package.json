@@ -29,7 +29,7 @@
     "build:doc": "tsc --build tsconfig.doc.json"
   },
   "dependencies": {
-    "@tsed/core": "6.43.4",
+    "@tsed/core": "6.59.0",
     "@tsed/logger": "5.14.0",
     "ffi-napi": "4.0.3",
     "ref-array-napi": "1.2.2",
